@@ -53,8 +53,8 @@ This project is an interactive Excel dashboard built to analyze sales performanc
 ## 👩‍💻 Author
 
 **Rakshita Mahar**  
-📧 [Add your email]  
-🔗 [Add your LinkedIn link]  
+📧 maharrakshita1@gmail.com  
+🔗 https://www.linkedin.com/in/rakshita-mahar-bb7b65201?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app  
 
 ---
 
